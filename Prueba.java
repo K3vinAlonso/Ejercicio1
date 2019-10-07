@@ -4,6 +4,7 @@ public class Prueba {
 
 		System.out.println("Kevin Alonso Alonso");
 		System.out.println("León");
+		System.out.println("Leon");
 		
 
 	}
